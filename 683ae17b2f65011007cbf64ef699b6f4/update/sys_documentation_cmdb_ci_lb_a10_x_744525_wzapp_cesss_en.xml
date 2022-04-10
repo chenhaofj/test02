@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_744525_wzapp_cesss" label="cesss" language="en" table="cmdb_ci_lb_a10">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_744525_wzapp_cesss</element>
+            <help/>
+            <hint/>
+            <label>cesss</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_a10</name>
+            <plural>cesss</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-17 02:29:08</sys_created_on>
+            <sys_id>1b5532d12f9e811007cbf64ef699b666</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cesss</sys_name>
+            <sys_package display_value="wzApp" source="x_744525_wzapp">683ae17b2f65011007cbf64ef699b6f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="wzApp">683ae17b2f65011007cbf64ef699b6f4</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_lb_a10_x_744525_wzapp_cesss_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-17 02:29:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

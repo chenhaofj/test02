@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="test0317" max_length="40" name="x_744525_wzapp_test0317" sizeclass="0" type="collection"/>
+</database>

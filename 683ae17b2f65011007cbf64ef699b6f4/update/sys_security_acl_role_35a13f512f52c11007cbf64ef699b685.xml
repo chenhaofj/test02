@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-17 06:52:33</sys_created_on>
+        <sys_id>35a13f512f52c11007cbf64ef699b685</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_744525_wzapp_test0317.x_744525_wzapp.test0317_user</sys_name>
+        <sys_package display_value="wzApp" source="x_744525_wzapp">683ae17b2f65011007cbf64ef699b6f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wzApp">683ae17b2f65011007cbf64ef699b6f4</sys_scope>
+        <sys_security_acl display_value="x_744525_wzapp_test0317">b1a13f512f52c11007cbf64ef699b682</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_35a13f512f52c11007cbf64ef699b685</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-17 06:52:33</sys_updated_on>
+        <sys_user_role display_value="x_744525_wzapp.test0317_user" name="x_744525_wzapp.test0317_user">99a1f7512f52c11007cbf64ef699b6ac</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
